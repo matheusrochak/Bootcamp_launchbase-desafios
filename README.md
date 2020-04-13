@@ -1,5 +1,5 @@
-# Bootcamp_launchbase-desafios
-Desafios dos módulos do Bootcamp da Rocketseat/ by Matheus ROCHA
+# Bootcamp_launchbase_desafios
+Desafios em tempo de quarentena  " Momento de conhecimento "
 
 
 
